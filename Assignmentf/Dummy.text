@@ -1,0 +1,8 @@
+ecommerce/
+    __init__.py
+    product_management/
+        __init__.py
+        products.py
+    order_processing/
+        __init__.py
+        orders.py

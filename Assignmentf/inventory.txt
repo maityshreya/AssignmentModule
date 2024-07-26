@@ -1,0 +1,4 @@
+Item: Apple, Quantity: 50
+Item: Banana, Quantity: 100
+Item: Orange, Quantity: 75
+ 
